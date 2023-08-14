@@ -17,19 +17,19 @@ In the end, we were able to obtain predictions of up to 99.3% accuracy.
 ---
 
 
-# Made by the DeVision Team
-
+# Made by the Summer 2023 DeVision Team
+## CEO
 Dr. Peter Wolenski
-------------------
+
 wolenski@math.lsu.edu
 
-Mathematics Graduate Students:
------------------------
+## Mathematics Graduate Students:
+
 
 David Agbolade, Gyaneshwar Agrahari, Kiran Bist, Hayden Bromley, Jackson Knox, Monika Pandey, Iswarya Sitiraju, Gowri Priya Sunkara
 
-Undergraduate Students:
------------------------
+## Undergraduate Students:
+
 
 Narek Bayramyan, Addison DeBlieux, Rohan Durgum, Atif Iqbal, Steph Moore, Artem Mukhamedzianov, Sunella Ramnath, Sahithi Rampally, Houston Smith, Jamar Whitfield, Skylar Wilson
 <br>
