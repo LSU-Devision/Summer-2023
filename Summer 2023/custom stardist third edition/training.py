@@ -81,6 +81,7 @@ def main(args):
     X = [normalize(x, 1, 99.8, axis=axis_norm) for x in X]
 
     # applied to each mask in Y, ensuring that any labeled regions are solid without internal holes
+    Y = [y.astype(np.int32) for y in Y]
     Y = [fill_label_holes(y) for y in Y]
 
     # function to pad images to ensure that the images meet the minimum requirement of 256x256 pixels
@@ -91,7 +92,7 @@ def main(args):
     # padding images
     X = [pad_image(x) for x in X]
     Y = [pad_image(y) for y in Y]
-
+    Y = [y.astype(np.int32) for y in Y]
     # number of rays to use for the non-maximum suppression in the StarDist model
     # 32 is a great starting point
     n_rays = args.rays
