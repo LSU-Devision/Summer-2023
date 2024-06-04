@@ -14,24 +14,31 @@ In the end, we were able to obtain predictions of up to 99.3% accuracy.
 
 ![Image 0](images/prediction_0.png)
 
----
-
-
-# Made by the Summer 2023 DeVision Team
+# Research done by the Summer 2023 DeVision Team
 ## CEO
-Dr. Peter Wolenski
-
-wolenski@math.lsu.edu
+Dr. Peter Wolenski wolenski@math.lsu.edu
 
 ## Mathematics Graduate Students:
-
 
 David Agbolade, Gyaneshwar Agrahari, Kiran Bist, Hayden Bromley, Jackson Knox, Monika Pandey, Iswarya Sitiraju, Gowri Priya Sunkara
 
 ## Undergraduate Students:
 
-
 Narek Bayramyan, Addison DeBlieux, Rohan Durgum, Atif Iqbal, Steph Moore, Artem Mukhamedzianov, Sunella Ramnath, Sahithi Rampally, Houston Smith, Jamar Whitfield, Skylar Wilson
+
+## AGGRC
+
+Director Terrance Tiersch
+
+Assistant Director Prof. Yue Liu
+
+Post Doc Dr. Jack Koch
+
+## The University of Chicago - Marine Biological Laboratory
+
+Research Assistant: Carl Anderson
+
+https://new-www.mbl.edu/
 <br>
 <br>
 
