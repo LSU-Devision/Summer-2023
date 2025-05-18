@@ -50,5 +50,5 @@ https://www.math.lsu.edu/courses/capstone_course
 <br>
 <br>
 
-<img src="images/lsulogo.png" alt="Image 1" width="250">
+<img src="images\lsulogo.png" alt="Image 1" width="250">
 https://lsu.edu/
